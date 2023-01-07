@@ -1,0 +1,12 @@
+{
+  "name": "Lavender-jones",
+  "author": "YourCompany",
+  "dark": true,
+  "editorScheme": "/modified-dark-purple.xml",
+  "colors": {
+    "primaryRed": "#821010"
+  },
+  "ui": {
+    "Button.background": "primaryRed"
+  }
+}
